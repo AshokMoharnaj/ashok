@@ -95,7 +95,7 @@
            <!--   <source>1.8</source>
               <target>1.8</target> -->
               <fork>true</fork>
-              <!-- Add all the checkers you want to enable here -->
+              <!-- Add all the checkers you want to enable here test -->
               <annotationProcessors>
                   <annotationProcessor>org.checkerframework.checker.nullness.NullnessChecker</annotationProcessor>
               </annotationProcessors>
